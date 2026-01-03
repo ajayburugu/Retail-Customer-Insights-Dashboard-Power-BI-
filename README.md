@@ -92,14 +92,12 @@ Discounts increase purchase volume but require margin optimization
 Certain product categories consistently outperform others
 
 📁 File Information
-ajay first powerbi file.pbix
+Retail Customer Insights Dashboard.pbix
 
 
 Open the .pbix file using Power BI Desktop to explore the interactive dashboard.
 
 🚀 How to Use
-
-Download the .pbix file
 
 Open it using Power BI Desktop
 
